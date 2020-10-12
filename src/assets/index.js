@@ -1,2 +1,3 @@
 import RegisterBg from "./images/register-bg.jpg";
-export {RegisterBg};
+import LoginBg from "./images/login-bg.jpg";
+export {RegisterBg, LoginBg};
