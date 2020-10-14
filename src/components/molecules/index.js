@@ -1,3 +1,4 @@
 import Header from "./header";
 import Footer from "./footer";
-export {Header, Footer};
+import BlogItem from "./blogitem";
+export {Header, Footer, BlogItem};
